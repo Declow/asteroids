@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Install: dk/sdu/mmmi/cbse/core/Install.class
+OpenIDE-Module-Localizing-Bundle: dk/sdu/sb4/group3/engine/Bundle.prop
+ erties
+OpenIDE-Module-Specification-Version: 1.0.0
+OpenIDE-Module-Implementation-Version: 1.0.0-DEVELOPMENT
+OpenIDE-Module-Build-Version: 201605121930
+OpenIDE-Module: dk.sdu.mmmi.cbse.GameEngine
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: dk.sdu.mmmi.cbse
+OpenIDE-Module-Name: GameEngine
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+X-Class-Path: ext/dk.sdu.mmmi.cbse.GameEngine/com-badlogicgames-gdx/gd
+ x.jar ext/dk.sdu.mmmi.cbse.GameEngine/com-badlogicgames-gdx/gdx-platf
+ orm-natives-desktop.jar ext/dk.sdu.mmmi.cbse.GameEngine/com-badlogicg
+ ames-gdx/gdx-backend-lwjgl.jar ext/dk.sdu.mmmi.cbse.GameEngine/org-lw
+ jgl-lwjgl/lwjgl.jar ext/dk.sdu.mmmi.cbse.GameEngine/org-lwjgl-lwjgl/l
+ wjgl-platform-natives-windows.jar ext/dk.sdu.mmmi.cbse.GameEngine/org
+ -lwjgl-lwjgl/lwjgl-platform-natives-linux.jar ext/dk.sdu.mmmi.cbse.Ga
+ meEngine/org-lwjgl-lwjgl/lwjgl-platform-natives-osx.jar ext/dk.sdu.mm
+ mi.cbse.GameEngine/net-java-jinput/jinput.jar ext/dk.sdu.mmmi.cbse.Ga
+ meEngine/net-java-jutils/jutils.jar ext/dk.sdu.mmmi.cbse.GameEngine/o
+ rg-lwjgl-lwjgl/lwjgl_util.jar ext/dk.sdu.mmmi.cbse.GameEngine/com-bad
+ logicgames-jlayer/jlayer.jar ext/dk.sdu.mmmi.cbse.GameEngine/org-jcra
+ ft/jorbis.jar ext/dk.sdu.mmmi.cbse.GameEngine/com-badlogicgames-gdx/g
+ dx-freetype.jar ext/dk.sdu.mmmi.cbse.GameEngine/com-badlogicgames-gdx
+ /gdx-freetype-platform-natives-desktop.jar
+Maven-Class-Path: com.badlogicgames.gdx:gdx:1.9.2 com.badlogicgames.gd
+ x:gdx-platform:1.9.2:natives-desktop com.badlogicgames.gdx:gdx-backen
+ d-lwjgl:1.9.2 org.lwjgl.lwjgl:lwjgl:2.9.2 org.lwjgl.lwjgl:lwjgl-platf
+ orm:2.9.2:natives-windows org.lwjgl.lwjgl:lwjgl-platform:2.9.2:native
+ s-linux org.lwjgl.lwjgl:lwjgl-platform:2.9.2:natives-osx net.java.jin
+ put:jinput:2.0.5 net.java.jutils:jutils:1.0.0 org.lwjgl.lwjgl:lwjgl_u
+ til:2.9.2 com.badlogicgames.jlayer:jlayer:1.0.1-gdx org.jcraft:jorbis
+ :0.0.17 com.badlogicgames.gdx:gdx-freetype:1.9.2 com.badlogicgames.gd
+ x:gdx-freetype-platform:1.9.2:natives-desktop
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.26.1, org.openide.util.lookup > 8.32.1, org.openide.modules >
+  7.47.1, org.openide.util > 9.5.1, org.openide.util.ui > 9.4.1, dk.sd
+ u.mmmi.cbse.Common > 1.0.0
+

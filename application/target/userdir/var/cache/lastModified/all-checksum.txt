@@ -1,0 +1,12 @@
+platform=1463094557000
+cluster.bin=1463094557000
+cluster.platform=1463094557000
+cluster.extra=1463094557000
+cluster.asteroids=1463094557000
+cluster.etc=1463094557000
+user=1463094557000
+crc=7
+locale=en_US
+branding=asteroids
+java.version=1.8.0_91
+java.vm.version=25.91-b14

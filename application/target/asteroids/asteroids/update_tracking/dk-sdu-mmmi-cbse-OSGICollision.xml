@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="dk.sdu.mmmi.cbse.OSGICollision">
+    <module_version install_time="1463081403486" last="true" origin="installer" specification_version="1.0.0.DEVELOPMENT">
+        <file crc="12391266" name="config/Modules/dk-sdu-mmmi-cbse-OSGICollision.xml"/>
+        <file crc="2258747634" name="modules/dk-sdu-mmmi-cbse-OSGICollision.jar"/>
+    </module_version>
+</module>

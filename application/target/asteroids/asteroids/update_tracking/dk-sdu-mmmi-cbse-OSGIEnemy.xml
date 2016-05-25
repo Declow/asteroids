@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="dk.sdu.mmmi.cbse.OSGIEnemy">
+    <module_version install_time="1463081403485" last="true" origin="installer" specification_version="1.0.0.DEVELOPMENT">
+        <file crc="1089414169" name="config/Modules/dk-sdu-mmmi-cbse-OSGIEnemy.xml"/>
+        <file crc="1896884299" name="modules/dk-sdu-mmmi-cbse-OSGIEnemy.jar"/>
+    </module_version>
+</module>

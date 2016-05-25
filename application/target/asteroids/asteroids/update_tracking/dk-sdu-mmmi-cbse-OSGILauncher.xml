@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.OSGILauncher">
+    <module_version install_time="1463081403450" last="true" origin="installer" specification_version="1.0.0">
+        <file crc="3203054053" name="config/Modules/dk-sdu-mmmi-cbse-OSGILauncher.xml"/>
+        <file crc="1077858715" name="modules/dk-sdu-mmmi-cbse-OSGILauncher.jar"/>
+    </module_version>
+</module>

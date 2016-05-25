@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: dk/sdu/mmmi/cbse/osgilauncher/Bundle
+ .properties
+OpenIDE-Module-Specification-Version: 1.0.0
+OpenIDE-Module-Implementation-Version: 1.0.0-DEVELOPMENT
+OpenIDE-Module-Build-Version: 201605121930
+OpenIDE-Module: dk.sdu.mmmi.cbse.OSGILauncher
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: dk.sdu.mmmi.cbse
+OpenIDE-Module-Name: OSGILauncher
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.26.1, dk.sdu.mmmi.cbse.Common > 1.0.0, dk.sdu.mmmi.cbse.OSGIE
+ nemy > 1.0.0, dk.sdu.mmmi.cbse.OSGIDeclarativeServices > 1.0.0, dk.sd
+ u.mmmi.cbse.OSGICollision > 1.0.0
+

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Install: dk/sdu/mmmi/cbse/core/Install.class
+OpenIDE-Module-Localizing-Bundle: dk/sdu/sb4/group3/engine/Bundle.properties
+

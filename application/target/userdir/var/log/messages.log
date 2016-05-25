@@ -1,0 +1,139 @@
+-------------------------------------------------------------------------------
+>Log Session: Friday, May 13, 2016 1:09:19 AM CEST
+>System Info: 
+  Product Version         = Asteroids 201510222201
+  Operating System        = Linux version 4.2.0-36-generic running on amd64
+  Java; VM; Vendor        = 1.8.0_91; Java HotSpot(TM) 64-Bit Server VM 25.91-b14; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.8.0_91-b14
+  Java Home               = /usr/lib/jvm/java-8-oracle/jre
+  System Locale; Encoding = en_US (asteroids); UTF-8
+  Home Directory          = /home/anon
+  Current Directory       = /home/anon/Documents/development/4./Asteroids-distj14/application
+  User Directory          = /home/anon/Documents/development/4./Asteroids-distj14/application/target/userdir
+  Cache Directory         = /home/anon/Documents/development/4./Asteroids-distj14/application/target/userdir/var/cache
+  Installation            = /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/bin
+                            /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform
+                            /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/extra
+                            /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids
+                            /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/etc
+                            /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform
+  Boot & Ext. Classpath   = /usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/usr/lib/jvm/java-8-oracle/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar
+  Application Classpath   = /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/boot.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/org-openide-modules.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/org-openide-util.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/org-openide-util-lookup.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/org-openide-util-ui.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/boot_ja.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/boot_pt_BR.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/boot_ru.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/boot_zh_CN.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-modules_ja.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-modules_ru.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util_ja.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util_pt_BR.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util_ru.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util-ui_ja.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util-ui_ru.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar
+  Startup Classpath       = /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/org-openide-filesystems-compat8.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/org-netbeans-libs-asm.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/org-openide-filesystems.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/core.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/asm-all-5.0.1.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/core-base.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-netbeans-libs-asm_pt_BR.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-netbeans-libs-asm_ru.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-netbeans-libs-asm_ja.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-openide-filesystems_zh_CN.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-openide-filesystems-compat8_ru.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-openide-filesystems_ja.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-openide-filesystems-compat8_zh_CN.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/core_pt_BR.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-openide-filesystems-compat8_pt_BR.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-openide-filesystems-compat8_ja.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/core-base_ja.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/core_zh_CN.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/core-base_zh_CN.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/core_ja.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-openide-filesystems_ru.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-netbeans-libs-asm_zh_CN.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/core-base_ru.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/core-base_pt_BR.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/core_ru.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/platform/core/locale/org-openide-filesystems_pt_BR.jar:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/core/locale/core_asteroids.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: /home/anon/Documents/development/4./Asteroids-distj14/SilentUpdate/target/classes
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: /home/anon/Documents/development/4./Asteroids-distj14/Common/target/classes
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: /home/anon/Documents/development/4./Asteroids-distj14/OSGILauncher/target/classes
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: /home/anon/Documents/development/4./Asteroids-distj14/branding/target/classes
+INFO [org.netbeans.modules.netbinox]: Install area set to file:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/
+INFO [org.netbeans.core.modules]: Using file:/home/anon/Documents/development/4./Asteroids-distj14/SilentUpdate/target/classes/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml as layer for dk.sdu.mmmi.cbse.SilentUpdate not jar:file:/home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/modules/dk-sdu-mmmi-cbse-SilentUpdate.jar!/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.32.1 201510222201]
+	org.openide.util [9.5.1 201510222201]
+	org.openide.util.ui [9.4.1 201510222201]
+	org.openide.modules [7.47.1 201510222201]
+	org.netbeans.api.annotations.common/1 [1.26.1 201510222201]
+	org.openide.filesystems [9.8.1 201510222201]
+	org.netbeans.api.intent [1.1.1 201510222201]
+	org.netbeans.api.io [1.2.1 201510222201]
+	org.openide.io [1.48.1 201510222201]
+	org.openide.filesystems.compat8 [9.7.1 201510222201]
+	org.openide.awt [7.65.1 201510222201]
+	org.netbeans.libs.asm [5.2.1 201510222201]
+	org.netbeans.bootstrap/1 [2.74.1 201510222201]
+	org.netbeans.core.startup.base [1.61.1.1 1 201510222201]
+	org.netbeans.core.startup/1 [1.61.1.1 201510222201]
+	org.netbeans.libs.osgi [1.20.1 201510222201]
+	org.netbeans.core.netigso [1.30.1 201510222201]
+	org.netbeans.modules.netbinox [1.39.1 201510222201]
+	org.netbeans.api.progress/1 [1.46.1 201510222201]
+	org.netbeans.api.progress.nb [1.46.1 201510222201]
+	org.netbeans.modules.autoupdate.services [1.51.1 201510222201]
+	org.eclipse.osgi.services [3.4.0 3.4.0.v20140312-2051]
+	org.apache.felix.scr [1.8.2 1.8.2]
+	dk.sdu.mmmi.cbse.SilentUpdate [1.0.0 1.0.0-DEVELOPMENT 201605121929]
+	dk.sdu.mmmi.cbse.Common [1.0.0 1.0.0-DEVELOPMENT 201605121929]
+	dk.sdu.mmmi.cbse.Player [1.0.0 1.0.0-DEVELOPMENT 201605121309]
+	dk.sdu.mmmi.cbse.OSGIEnemy [1.0.0 1.0.0.DEVELOPMENT]
+	dk.sdu.mmmi.cbse.OSGICollision [1.0.0 1.0.0.DEVELOPMENT]
+	dk.sdu.mmmi.cbse.OSGIDeclarativeServices [1.0.0 1.0.0.DEVELOPMENT]
+	dk.sdu.mmmi.cbse.OSGILauncher [1.0.0 1.0.0-DEVELOPMENT 201605121930]
+	dk.sdu.mmmi.cbse.GameEngine [1.0.0 1.0.0-DEVELOPMENT 201605121309]
+	dk.sdu.mmmi.cbse.Bullets [1.0.0 1.0.0-DEVELOPMENT 201605121309]
+	dk.sdu.mmmi.cbse.Asteroids.distj14.branding [1.0.0 1.0.0-DEVELOPMENT 201605121929]
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 started
+INFO [org.springframework.context.annotation.AnnotationConfigApplicationContext]: Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d1c4244: startup date [Fri May 13 01:09:22 CEST 2016]; root of context hierarchy
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Asteroids[dk.sdu.mmmi.cbse.Asteroids/1.0.0]
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Asteroids.nbm
+INFO [org.netbeans.updater]: File installed /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/config/Modules/dk-sdu-mmmi-cbse-Asteroids.xml@0
+INFO [org.netbeans.updater]: Copied file netbeans/config/Modules/dk-sdu-mmmi-cbse-Asteroids.xml to /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/config/Modules/dk-sdu-mmmi-cbse-Asteroids.xml
+INFO [org.netbeans.updater]: File installed /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/modules/dk-sdu-mmmi-cbse-Asteroids.jar@0
+INFO [org.netbeans.updater]: Copied file netbeans/modules/dk-sdu-mmmi-cbse-Asteroids.jar to /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/modules/dk-sdu-mmmi-cbse-Asteroids.jar
+INFO [org.netbeans.updater]: File /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update/download/dk-sdu-mmmi-cbse-Asteroids.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@5d2ac68b
+INFO [org.netbeans.updater]: File /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update_tracking/dk-sdu-mmmi-cbse-Asteroids.xml modified.
+INFO [org.netbeans.updater]: File installed /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update_tracking/dk-sdu-mmmi-cbse-Asteroids.xml@0
+INFO [org.netbeans.updater]: File /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update/download/additional_information.xml deleted.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Install new modules done.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	dk.sdu.mmmi.cbse.Asteroids [1.0.0 1.0.0-DEVELOPMENT 201605121309]
+Turning on modules...
+Loading module services...
+Loading modules...
+Turning on modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated 2 more times.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Asteroids[dk.sdu.mmmi.cbse.Asteroids/1.0.0]
+Turning off modules...
+INFO [org.netbeans.core.startup.NbEvents]: Turning off modules:
+	dk.sdu.mmmi.cbse.Asteroids [1.0.0 1.0.0-DEVELOPMENT 201605121309]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Unstall modules done.
+Turning off modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Asteroids[dk.sdu.mmmi.cbse.Asteroids/1.0.0]
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Asteroids.nbm
+INFO [org.netbeans.updater]: File installed /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/config/Modules/dk-sdu-mmmi-cbse-Asteroids.xml@0
+INFO [org.netbeans.updater]: Copied file netbeans/config/Modules/dk-sdu-mmmi-cbse-Asteroids.xml to /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/config/Modules/dk-sdu-mmmi-cbse-Asteroids.xml
+INFO [org.netbeans.updater]: File installed /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/modules/dk-sdu-mmmi-cbse-Asteroids.jar@0
+INFO [org.netbeans.updater]: Copied file netbeans/modules/dk-sdu-mmmi-cbse-Asteroids.jar to /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/modules/dk-sdu-mmmi-cbse-Asteroids.jar
+INFO [org.netbeans.updater]: File /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update/download/dk-sdu-mmmi-cbse-Asteroids.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@240995b6
+INFO [org.netbeans.updater]: File /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update_tracking/dk-sdu-mmmi-cbse-Asteroids.xml modified.
+INFO [org.netbeans.updater]: File installed /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update_tracking/dk-sdu-mmmi-cbse-Asteroids.xml@0
+INFO [org.netbeans.updater]: File /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update/download/additional_information.xml deleted.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	dk.sdu.mmmi.cbse.Asteroids [1.0.0 1.0.0-DEVELOPMENT 201605121309]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Install new modules done.
+Turning on modules...
+Loading module services...
+Loading modules...
+Turning on modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated again.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Player[dk.sdu.mmmi.cbse.Player/1.0.0]
+Turning off modules...
+INFO [org.netbeans.core.startup.NbEvents]: Turning off modules:
+	dk.sdu.mmmi.cbse.Player [1.0.0 1.0.0-DEVELOPMENT 201605121309]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Unstall modules done.
+Turning off modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Player[dk.sdu.mmmi.cbse.Player/1.0.0]
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Player.nbm
+INFO [org.netbeans.updater]: File installed /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/config/Modules/dk-sdu-mmmi-cbse-Player.xml@0
+INFO [org.netbeans.updater]: Copied file netbeans/config/Modules/dk-sdu-mmmi-cbse-Player.xml to /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/config/Modules/dk-sdu-mmmi-cbse-Player.xml
+INFO [org.netbeans.updater]: File installed /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/modules/dk-sdu-mmmi-cbse-Player.jar@0
+INFO [org.netbeans.updater]: Copied file netbeans/modules/dk-sdu-mmmi-cbse-Player.jar to /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/modules/dk-sdu-mmmi-cbse-Player.jar
+INFO [org.netbeans.updater]: File /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update/download/dk-sdu-mmmi-cbse-Player.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@4395fc22
+INFO [org.netbeans.updater]: File /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update_tracking/dk-sdu-mmmi-cbse-Player.xml modified.
+INFO [org.netbeans.updater]: File installed /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update_tracking/dk-sdu-mmmi-cbse-Player.xml@0
+INFO [org.netbeans.updater]: File /home/anon/Documents/development/4./Asteroids-distj14/application/target/asteroids/asteroids/update/download/additional_information.xml deleted.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	dk.sdu.mmmi.cbse.Player [1.0.0 1.0.0-DEVELOPMENT 201605121309]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Install new modules done.
+Turning on modules...
+Loading module services...
+Loading modules...
+Turning on modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated 2 more times.

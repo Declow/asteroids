@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="dk.sdu.mmmi.cbse.OSGIDeclarativeServices">
+    <module_version install_time="1463081403485" last="true" origin="installer" specification_version="1.0.0.DEVELOPMENT">
+        <file crc="3572371587" name="config/Modules/dk-sdu-mmmi-cbse-OSGIDeclarativeServices.xml"/>
+        <file crc="2122908812" name="modules/dk-sdu-mmmi-cbse-OSGIDeclarativeServices.jar"/>
+    </module_version>
+</module>

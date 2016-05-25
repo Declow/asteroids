@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.Asteroids.distj14.branding">
+    <module_version install_time="1463081403205" last="true" origin="installer" specification_version="1.0.0">
+        <file crc="4075781040" name="config/Modules/dk-sdu-mmmi-cbse-Asteroids-distj14-branding.xml"/>
+        <file crc="1030857389" name="core/locale/core_asteroids.jar"/>
+        <file crc="3478130868" name="modules/dk-sdu-mmmi-cbse-Asteroids-distj14-branding.jar"/>
+        <file crc="307077474" name="modules/locale/org-netbeans-core-windows_asteroids.jar"/>
+        <file crc="3561191875" name="modules/locale/org-netbeans-core_asteroids.jar"/>
+    </module_version>
+</module>

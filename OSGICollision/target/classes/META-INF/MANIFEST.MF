@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1463081401752
+Build-Jdk: 1.8.0_91
+Built-By: anon
+Bundle-ActivationPolicy: lazy
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGICollision
+Bundle-SymbolicName: dk.sdu.mmmi.cbse.OSGICollision
+Bundle-Version: 1.0.0.DEVELOPMENT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: dk.sdu.mmmi.cbse.osgicollision;uses:="dk.sdu.mmmi.cbse.c
+ ommon.data,dk.sdu.mmmi.cbse.common.services";version="1.0.0.DEVELOPMENT
+ "
+Import-Package: dk.sdu.mmmi.cbse.common.data,dk.sdu.mmmi.cbse.common.ser
+ vices
+Service-Component: META-INF/component.xml
+Tool: Bnd-1.50.0
